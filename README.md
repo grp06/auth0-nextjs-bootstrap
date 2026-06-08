@@ -1,4 +1,4 @@
-# Creating Auth0 Next App
+# Auth0 Next.js Bootstrap
 
 A Codex skill that creates a minimal Next.js app, installs the official Auth0
 React SDK, configures an Auth0 Single Page Application in the Auth0 dashboard
@@ -70,14 +70,14 @@ For `~/.agents/skills`:
 
 ```bash
 mkdir -p ~/.agents/skills
-git clone https://github.com/grp06/creating-auth0-next-app.git ~/.agents/skills/creating-auth0-next-app
+git clone https://github.com/grp06/auth0-nextjs-bootstrap.git ~/.agents/skills/auth0-nextjs-bootstrap
 ```
 
 For `~/.codex/skills`:
 
 ```bash
 mkdir -p ~/.codex/skills
-git clone https://github.com/grp06/creating-auth0-next-app.git ~/.codex/skills/creating-auth0-next-app
+git clone https://github.com/grp06/auth0-nextjs-bootstrap.git ~/.codex/skills/auth0-nextjs-bootstrap
 ```
 
 Restart Codex or start a fresh Codex thread after installing the skill.
@@ -87,7 +87,7 @@ Restart Codex or start a fresh Codex thread after installing the skill.
 Ask Codex:
 
 ```text
-Use $creating-auth0-next-app to create a minimal Next.js Auth0 demo app end to end.
+Use $auth0-nextjs-bootstrap to create a minimal Next.js Auth0 demo app end to end.
 ```
 
 The skill expects Chrome to already be signed into Auth0. It will stop and ask

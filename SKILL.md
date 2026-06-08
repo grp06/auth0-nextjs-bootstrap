@@ -1,5 +1,5 @@
 ---
-name: creating-auth0-next-app
+name: auth0-nextjs-bootstrap
 description: >-
   Scaffold a minimal Next.js React app and configure it end to end with the
   official Auth0 React SDK plus Auth0 dashboard callback, logout, and web-origin
@@ -8,7 +8,7 @@ description: >-
   Auth0 dashboard setup.
 ---
 
-# Creating Auth0 Next App
+# Auth0 Next.js Bootstrap
 
 ## Goal
 

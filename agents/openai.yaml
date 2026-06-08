@@ -1,4 +1,4 @@
 interface:
-  display_name: "Creating Auth0 Next App"
+  display_name: "Auth0 Next.js Bootstrap"
   short_description: "Scaffold minimal Auth0 Next.js demos."
-  default_prompt: "Use $creating-auth0-next-app to create a minimal Next.js Auth0 demo app end to end."
+  default_prompt: "Use $auth0-nextjs-bootstrap to create a minimal Next.js Auth0 demo app end to end."
